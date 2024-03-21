@@ -23,8 +23,3 @@ function Basiccard() {
 }
 
 export default Basiccard;
-git config --global user.name "chaimamoalla"
-git config --global user.email chaima.moalla28@gmail.com
-git init 
-git remote add origin https://github.com/chaimamoalla/site-web
-git add.
